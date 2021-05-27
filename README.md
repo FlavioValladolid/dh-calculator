@@ -1,1 +1,1 @@
-# dh-calculator
+# calculator
