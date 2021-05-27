@@ -3,6 +3,11 @@ function resta(a, b) {
 
 }
 
+function suma(a, b) {
+    return a + b;
+}
+
 module.exports = {
-    resta
+    resta,
+    suma
 }
